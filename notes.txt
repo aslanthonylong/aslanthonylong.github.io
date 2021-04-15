@@ -1,0 +1,20 @@
+Todo's
+    1.) Build Project
+    -creating the folder
+    -adding files
+    -conecting ffiles
+
+    2.) Navbar
+    -2 Links and a name
+
+    3.) Portfilio item grid
+    -images
+    -title
+    -descriptions
+    -animations
+    -javascript
+
+    4.) build about page
+    -images
+    -split column layout
+    -content
