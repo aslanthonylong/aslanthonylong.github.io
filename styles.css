@@ -101,6 +101,7 @@ body {
     width: 50%;
     margin-bottom: 20px;
     background: transparent;
+    mix-blend-mode: multiply;
   }
   
   .two-column-wrapper {
